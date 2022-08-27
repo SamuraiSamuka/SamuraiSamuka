@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Samuel
 
 - 👀 Eu estou aprendendo desenvolvimento full-stack
-- 🌱 Atualmente estou estou estudando Javascript
+- 🌱 Atualmente estou estudando Javascript
 - 📫 Como entrar em contato comigo: samuel.carvalho.dev@gmail.com
 
 <div align="center">
@@ -16,6 +16,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D35AQEA7hqEHgqJLw/profile-framedphoto-shrink_400_400/0/1652659477691?e=1662217200&v=beta&t=ZWXNXW9JkwDh10opkplLpYKNgbBoOwqzQDWlo6EoOvA">
 </div>
 
