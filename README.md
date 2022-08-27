@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @SamuraiSamuka
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning git
-- 📫 How to reach me samuel.carvalho.dev@gmail.com
+## 👋 Olá! Eu sou o Samuel
 
-<!---
-SamuraiSamuka/SamuraiSamuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Eu estou aprendendo desenvolvimento full-stack
+- 🌱 Atualmente estou estou estudando Javascript
+- 📫 Como entrar em contato comigo: samuel.carvalho.dev@gmail.com
+
+<div align="center">
+  <a href="https://github.com/SamuraiSamuka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuraisamuka&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraisamuka&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/D4D35AQEA7hqEHgqJLw/profile-framedphoto-shrink_400_400/0/1652659477691?e=1662217200&v=beta&t=ZWXNXW9JkwDh10opkplLpYKNgbBoOwqzQDWlo6EoOvA">
+</div>
+
+##
+
+<div> 
+  <a href = "mailto:samuel.carvalho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/samuraisamuka/samuraisamuka/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
