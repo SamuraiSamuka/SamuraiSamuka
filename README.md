@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/SamuraiSamuka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuraisamuka&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraisamuka&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api?username=samuraisamuka&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraisamuka&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
   
 <a href="https://cursos.alura.com.br/user/sscarvalho123/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">Veja aqui o que ando estudando</a>
