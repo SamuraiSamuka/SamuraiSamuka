@@ -4,13 +4,14 @@
 - 🌱 Atualmente estou estudando Javascript
 - 📫 Como entrar em contato comigo: samuel.carvalho.dev@gmail.com
 
+<a href ="https://cursos.alura.com.br/vitrinedev/sscarvalho123">Veja mais sobre o que ando estudando aqui, na minha vitrine dev.<a>
+<a href="https://cursos.alura.com.br/user/sscarvalho123/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">Meus certificados</a>
+
 <div align="center">
   <a href="https://github.com/SamuraiSamuka">
   <img height="180em" width="44%" src="https://github-readme-stats.vercel.app/api?username=samuraisamuka&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuraisamuka&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
-  
-<a href="https://cursos.alura.com.br/user/sscarvalho123/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">Veja aqui o que ando estudando</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
