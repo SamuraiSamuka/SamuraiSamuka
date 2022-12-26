@@ -1,8 +1,10 @@
-## 👋 Olá! Eu sou o Samuel
+## 👋 Hi! I'm Samuel Carvalho                  / Olá! Eu sou o Samuel Carvalho
 
-- 👀 Eu estou aprendendo desenvolvimento full-stack
-- 🌱 Atualmente estou estudando Javascript
-- 📫 Como entrar em contato comigo: samuel.carvalho.dev@gmail.com
+- 👀 Looking to become a full-stack developer  / Eu estou buscando me tornar um desenvolvedor full-stack
+- 🌱 Now, I'm learning React                   / Atualmente, estou estudando React
+- 👶 I'm 25 years old                          / Tenho 25 anos
+- 🇧🇷  Brazilian                                 / Brasileiro
+- 📫 How to reach me:                          / Como entrar em contato comigo:     samuel.carvalho.dev@gmail.com
 
 <a href ="https://cursos.alura.com.br/vitrinedev/sscarvalho123">Veja mais sobre o que ando estudando aqui, na minha vitrine dev.<a>
 <a href="https://cursos.alura.com.br/user/sscarvalho123/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">Meus certificados</a>
