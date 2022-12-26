@@ -2,7 +2,7 @@
 
 - 🇧🇷  Brazilian
 - 👶 I'm 25 years old
-- 👀 Looking to become a full-stack developer
+- 👀 Seeking to become a full-stack developer
 - 🌱 Now, I'm learning React
 - 🎓 Technologist degree in systems analysis and development
 - 📫 How to reach me: samuel.carvalho.dev@gmail.com
