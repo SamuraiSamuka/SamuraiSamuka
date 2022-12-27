@@ -1,5 +1,5 @@
 ## 👋 Oi! Seja bem-vindo! Eu sou o Samuel!
-<img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Pode me chamar de Sam. Tenho 25 anos e estou estudando para me tornar um desenvolvedor full-stack.
+<img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Pode me chamar de Samuka. Tenho 25 anos e estou estudando para me tornar um desenvolvedor full-stack.
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
 * Venho expandindo minha base de conhecimento através dos cursos da Alura e outros.
