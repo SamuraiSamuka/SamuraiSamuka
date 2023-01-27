@@ -5,8 +5,8 @@
 * Venho expandindo minha base de conhecimento através dos cursos da Alura e outros.
 
 
-<p>Veja aqui, a minha <a href ="https://cursos.alura.com.br/vitrinedev/sscarvalho123">vitrine dev.<a></p>
-<p>Veja também <a href="https://cursos.alura.com.br/user/sscarvalho123/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações</a></p>
+<p>Veja aqui, a minha <a href ="https://cursos.alura.com.br/vitrinedev/samurai-samuka">vitrine dev.<a></p>
+<p>Veja também <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
 
 <hr>
 
