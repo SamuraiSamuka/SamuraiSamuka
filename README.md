@@ -16,6 +16,13 @@
 - 📫 How to reach me: samuel.carvalho.dev@gmail.com
 
 <hr>
+  
+## Sobre meus repositórios
+  Os meus repositórios estão classificados em três tipo:
+  * **Curso** - desenvolvidos durante cursos
+  * **Desafio** - desenvolvidos com base em uma proposta ou design, sem ajuda externa
+  * **Projeto** - projeto pessoais
+<hr>
 
 <div align=center style="display:flex, justify-content:space-between"><br>
   <div>
