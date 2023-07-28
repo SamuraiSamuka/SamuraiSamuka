@@ -1,17 +1,17 @@
 ## 👋 Oi! Seja bem-vindo!
-<img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Eu sou o Samuel. Tenho 25 anos, sou dev front-end e estou estudando para me tornar um desenvolvedor full-stack.
+<img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. Estou estudando para me tornar um desenvolvedor full-stack.
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
-* Atualmente estudo pela Alura. 
-<p>Veja aqui, a minha <a href ="https://cursos.alura.com.br/vitrinedev/samurai-samuka">vitrine dev.<a></p>
-<p>Veja também <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
+* Atualmente estudo pela Alura.
+* Minhas principais skills são: Javascript, Tailwind, React e nodejs c/ express
+<p>Veja aqui <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
 
 <hr>
 
 - 🇧🇷  Brazilian
-- 👶 I'm 25 years old
+- 👶 I'm 26 years old
 - 👀 Seeking to become a full-stack developer
-- 🌱 Now, I'm learning React
+- 🌱 Now, I'm learning typescript, next and postgreSQL
 - 🎓 Technologist degree in systems analysis and development
 - 📫 How to reach me: samuel.carvalho.dev@gmail.com
 
@@ -19,9 +19,9 @@
   
 ## Sobre meus repositórios
   Os meus repositórios estão classificados em três tipo:
-  * **Curso** - desenvolvidos durante cursos
+  * **Curso/tutorial** - desenvolvidos durante cursos
   * **Desafio** - desenvolvidos com base em uma proposta ou design, sem ajuda externa
-  * **Projeto** - projeto pessoais
+  * **Projeto** - projetos pessoais
 <hr>
 
 <div align=center style="display:flex, justify-content:space-between"><br>
@@ -29,6 +29,7 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
     <img align="center" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
