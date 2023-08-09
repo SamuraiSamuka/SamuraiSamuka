@@ -1,4 +1,4 @@
-## 👋 Oi! Seja bem-vindo!
+## 👋 Oi! Seja bem-vindo(a)!
 <img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. Estou estudando para me tornar um desenvolvedor full-stack.
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
@@ -15,13 +15,6 @@
 - 🎓 Technologist degree in systems analysis and development
 - 📫 How to reach me: samuel.carvalho.dev@gmail.com
 
-<hr>
-  
-## Sobre meus repositórios
-  Os meus repositórios estão classificados em três tipo:
-  * **Curso/tutorial** - desenvolvidos durante cursos
-  * **Desafio** - desenvolvidos com base em uma proposta ou design, sem ajuda externa
-  * **Projeto** - projetos pessoais
 <hr>
 
 <div align=center style="display:flex;"><br>
@@ -61,3 +54,11 @@
 <div align=center> 
  
 </div>
+
+<hr>
+  
+## Sobre meus repositórios
+  Os meus repositórios estão classificados em três tipo:
+  * **Curso/tutorial** - desenvolvidos durante cursos
+  * **Desafio** - desenvolvidos com base em uma proposta ou design, sem ajuda externa
+  * **Projeto** - projetos pessoais
