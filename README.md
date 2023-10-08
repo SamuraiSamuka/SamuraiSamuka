@@ -1,9 +1,10 @@
+![](https://komarev.com/ghpvc/?username=samuraisamuka)
 ## 👋 Oi! Seja bem-vindo(a)!
-<img align="right" alt="Samuka-pic" height="150" style="border-radius:50px;" src="https://github.com/SamuraiSamuka.png">Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. Estou estudando para me tornar um desenvolvedor full-stack.
+Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. 
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
-* Atualmente estudo pela Alura.
-* Minhas principais skills são: Javascript, Tailwind, React e nodejs c/ express
+* Atualmente atuo com dev front-end e founder em um projeto voluntário chamado Care4you.
+* Minhas principais skills são: Javascript/Typescript, Tailwind, React e nodejs
 <p>Veja aqui <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
 
 <hr>
