@@ -1,11 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=samuraisamuka)
-## 👋 Oi! Seja bem-vindo(a)!
+## 👋 Olá! Seja bem-vindo(a) ao meu perfil !
 Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. 
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
 * Atualmente atuo com dev front-end e founder em um projeto voluntário chamado Care4you.
 * Minhas principais skills são: Javascript/Typescript, Tailwind, React e nodejs
-<p>Veja aqui <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
+<p>Veja aqui algumas das <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
 
 <hr>
 
@@ -18,8 +18,22 @@ Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira 
 
 <hr>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,ts,nextjs" />
+    </div>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,jest,git" />
+    </div>
+<!--     <div align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,sass,js" />
+    </div> -->
+  </a>
+</p>
+
 <div align=center style="display:flex;"><br>
-  <div style="padding:15px;">
+<!--   <div style="padding:15px;">
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -34,10 +48,7 @@ Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira 
     <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />
     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />
-  </div>
-
-  ###
-  
+  </div> -->
   <div>
     <a href = "mailto:samuel.carvalho.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/samuel-silva-de-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
