@@ -1,18 +1,19 @@
 ![](https://komarev.com/ghpvc/?username=samuraisamuka)
 ## 👋 Olá! Seja bem-vindo(a) ao meu perfil !
-Eu sou o Samuel. Sou desenvolvedor front-end e estou em busca da minha primeira oporturnidade de emprego como dev. 
+Eu sou o Samuel. Sou desenvolvedor fullstack js.
 
 * Sou formado em análise e desenvolvimento de sistemas pela FAEL
-* Atualmente atuo com dev front-end e founder em um projeto voluntário chamado Care4you.
-* Minhas principais skills são: Javascript/Typescript, Tailwind, React e nodejs
-<p>Veja aqui algumas das <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações.</a></p>
+* Trabalho como eletricista técnico (sou tec. em eletromecânica) e programo nas horas vagas.
+* Além disso também sou concurseiro da área de TI.
+* Estou aberto a ofertas de empregos na área de programação.
+<p>Veja aqui algumas das <a href="https://cursos.alura.com.br/user/samurai-samuka/fullCertificate/5d7bf0dfe87467a27c33386e149d7ed9">minhas certificações na Alura.</a></p>
 
 <hr>
 
 - 🇧🇷  Brazilian
-- 👶 I'm 26 years old
+- 👶 I'm 28 years old
 - 👀 Seeking to become a full-stack developer
-- 🌱 Now, I'm learning typescript, next and postgreSQL
+- 🌱 Now, I'm learning backend with typescript, next and postgreSQL
 - 🎓 Technologist degree in systems analysis and development
 - 📫 How to reach me: samuel.carvalho.dev@gmail.com
 
